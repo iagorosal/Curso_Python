@@ -15,7 +15,7 @@ print(f'está uma variavel boleana {type(verdadeiro)}')
 print('-'*80)
 
 
-dic = {"nome": "Iago", "idade":"32", "altura":"1.75"}
+pessoa = {"nome": "Iago", "idade":"32", "altura":"1.75"}
 
 
-print(dic)
+print(pessoa)
